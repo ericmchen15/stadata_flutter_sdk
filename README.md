@@ -21,17 +21,17 @@
 
 ## Description
 
-The **STADATA Flutter SDK** is a powerful and user-friendly Flutter SDK designed to seamlessly integrate with the official API offered by the Badan Pusat Statistik (BPS) Statistic of the Republic of Indonesia. BPS offers a [WebAPI](https://webapi.bps.go.id/developer/) - <https://webapi.bps.go.id/developer/> that allows users to programmatically access various types of data, including Publications, Press Releases, Static Tables, Dynamic Tables, and many more.
+The **STADATA Flutter SDK** is a powerful and user-friendly Flutter SDK designed for seamless integration with the official API offered by the Badan Pusat Statistik (BPS), the Statistics Bureau of the Republic of Indonesia. BPS provides a [WebAPI](https://webapi.bps.go.id/developer/) that enables users to programmatically access a wide array of data, including Publications, Press Releases, Static Tables, Dynamic Tables, and more.
 
-This SDK empowers Flutter developers to effortlessly access a wealth of statistical data and information directly from BPS's extensive database, enabling the creation of data-driven applications that provide valuable insights into various aspects of Indonesia's socio-economic landscape.
+This SDK empowers Flutter developers to effortlessly access a wealth of statistical data and information directly from BPS's extensive database. It facilitates the creation of data-driven applications that offer valuable insights into various aspects of Indonesia's socio-economic landscape.
 
-With **STADATA Flutter SDK**, you can harness the comprehensive data sets made available by BPS, covering a wide range of domains such as population, economy, demographics, and more. This SDK simplifies the process of fetching, processing, and presenting statistical data within your Flutter apps, ensuring a smooth and efficient user experience by eliminate the need for manual data downloads from the [https://www.bps.go.id/](https://www.bps.go.id/).
+With the **STADATA Flutter SDK**, you can tap into the comprehensive datasets made available by BPS, covering domains such as population, economy, demographics, and more. This SDK streamlines the process of fetching, processing, and presenting statistical data within your Flutter apps, eliminating the need for manual data downloads from [https://www.bps.go.id/](https://www.bps.go.id/).
 
 ---
 
 ## Key Features
 
-- **Seamless Integration:** Easily incorporate BPS Statistic of the Republic of Indonesia's data into your Flutter projects.
+- **Seamless Integration:** Easily incorporate data from BPS Statistics of the Republic of Indonesia into your Flutter projects.
 - **Rich Data Sources:** Access a vast repository of statistical data on Indonesia's diverse economic and demographic aspects.
 - **User-Friendly:** Designed with developers in mind, making it straightforward to utilize the API's functionalities.
 - **Data Insights:** Create data-driven applications to provide valuable insights and visualizations to your users.
@@ -51,18 +51,17 @@ For detailed usage instructions and documentation of this package, please refer 
 
 ## To-Do
 
-### List API TODO
-
+### List of APIs to Implement
 - ✅ Domains
 - ✅ Publications
 - ✅ Infographics
-- ✅ Static Table
-- 🔄 Dynamic Table
-- ✅ Press Release
+- ✅ Static Tables
+- 🔄 Dynamic Tables
+- ✅ Press Releases
 - ✅ News
 - ✅ News Categories
 - ✅ Subject Categories
-- ✅ Subjects
+- 🔄 Subjects
 - 🔄 KBLI
 - 🔄 Glosarium
 - 🔄 Census Data
@@ -72,8 +71,7 @@ For detailed usage instructions and documentation of this package, please refer 
 - 🔄 Strategic Indicator
 - 🔄 SDDS
 
-### View API TODO
-
+### View APIs to Implement
 - ✅ Publication
 - ✅ Static Table
 - 🔄 Dynamic Table
